@@ -1,0 +1,444 @@
+Added Component: Designator=C1(Cap 0603_L)
+Add component (AddParameter): Name = "Revision"; Value = "V1.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "Voltage"; VariantName = "[No Variations]"
+Added Component: Designator=C2(CM D(6.3*5.4))
+Add component (AddParameter): Name = "Revision"; Value = "V1.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "470uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "Voltage"; VariantName = "[No Variations]"
+Added Component: Designator=C3(Cap 0805_L)
+Add component (AddParameter): Name = "Revision"; Value = "V1.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "Voltage"; VariantName = "[No Variations]"
+Added Component: Designator=C4(Cap 0805_L)
+Add component (AddParameter): Name = "Revision"; Value = "V1.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "Voltage"; VariantName = "[No Variations]"
+Added Component: Designator=C5(Cap 0603_L)
+Add component (AddParameter): Name = "Revision"; Value = "V1.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "Voltage"; VariantName = "[No Variations]"
+Added Component: Designator=C6(Cap 0603_L)
+Add component (AddParameter): Name = "Revision"; Value = "V1.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "Voltage"; VariantName = "[No Variations]"
+Added Component: Designator=C7(Cap 0603_L)
+Add component (AddParameter): Name = "Revision"; Value = "V1.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "Voltage"; VariantName = "[No Variations]"
+Added Component: Designator=C8(Cap 0603_L)
+Add component (AddParameter): Name = "Revision"; Value = "V1.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "Voltage"; VariantName = "[No Variations]"
+Added Component: Designator=C9(Cap 0603_L)
+Add component (AddParameter): Name = "Revision"; Value = "V1.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "Voltage"; VariantName = "[No Variations]"
+Added Component: Designator=C10(Cap 0603_L)
+Add component (AddParameter): Name = "Revision"; Value = "V1.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100nF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "Voltage"; VariantName = "[No Variations]"
+Added Component: Designator=C11(Cap 0603_L)
+Add component (AddParameter): Name = "Revision"; Value = "V1.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "Voltage"; VariantName = "[No Variations]"
+Added Component: Designator=C12(Cap 0603_L)
+Add component (AddParameter): Name = "Revision"; Value = "V1.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "Voltage"; VariantName = "[No Variations]"
+Added Component: Designator=C13(Cap 0805_L)
+Add component (AddParameter): Name = "Revision"; Value = "V1.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "22uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "Voltage"; VariantName = "[No Variations]"
+Added Component: Designator=D1(DO-214)
+Add component (AddParameter): Name = "Imax"; Value = "500mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price(RMB)"; Value = "0.000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=D2(SOD-323)
+Add component (AddParameter): Name = "Revision"; Value = "V1.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "B5819WS"; VariantName = "[No Variations]"
+Added Component: Designator=D3(SOD-123-L)
+Add component (AddParameter): Name = "Price(RMB)"; Value = "0.000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision"; Value = "July-2002: Re-released for DXP Platform."; VariantName = "[No Variations]"
+Added Component: Designator=D4(SOD-323)
+Add component (AddParameter): Name = "Revision"; Value = "V1.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "B5819WS"; VariantName = "[No Variations]"
+Added Component: Designator=D5(SOD-323)
+Add component (AddParameter): Name = "Revision"; Value = "V1.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "B5819WS"; VariantName = "[No Variations]"
+Added Component: Designator=FB1(Cap 0603_L)
+Add component (AddParameter): Name = "DCR"; Value = ".1m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency"; Value = "@100MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Imax"; Value = "500mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "2020-12-18"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision"; Value = "V1.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0R"; VariantName = "[No Variations]"
+Added Component: Designator=H4(FPC0.5 2H-WS-8P)
+Added Component: Designator=H5(HDR2.54-LI-4P)
+Added Component: Designator=LED1(LED 0603B)
+Add component (AddParameter): Name = "Color"; Value = "冰蓝"; VariantName = "[No Variations]"
+Added Component: Designator=LED2(LED 0603B)
+Add component (AddParameter): Name = "Color"; Value = "冰蓝"; VariantName = "[No Variations]"
+Added Component: Designator=LED3(LED 0603B)
+Add component (AddParameter): Name = "Color"; Value = "冰蓝"; VariantName = "[No Variations]"
+Added Component: Designator=LED4(LED 0603R)
+Add component (AddParameter): Name = "Color"; Value = "粉红"; VariantName = "[No Variations]"
+Added Component: Designator=Q?(TSON3x3)
+Added Component: Designator=Q?(TSON3x3)
+Added Component: Designator=Q?(TSON3x3)
+Added Component: Designator=Q?(TSON3x3)
+Added Component: Designator=Q?(TSON3x3)
+Added Component: Designator=Q?(TSON3x3)
+Added Component: Designator=R1(Res 0603_L)
+Add component (AddParameter): Name = "Power"; Value = "1/8W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision"; Value = "V1.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "51K"; VariantName = "[No Variations]"
+Added Component: Designator=R2(Res 0603_L)
+Add component (AddParameter): Name = "Power"; Value = "1/8W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision"; Value = "V1.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R3(Res 0603_L)
+Add component (AddParameter): Name = "Power"; Value = "1/8W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision"; Value = "V1.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1.5K"; VariantName = "[No Variations]"
+Added Component: Designator=R4(Res 0603_L)
+Add component (AddParameter): Name = "Power"; Value = "1/8W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision"; Value = "V1.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1.5K"; VariantName = "[No Variations]"
+Added Component: Designator=R5(Res 0603_L)
+Add component (AddParameter): Name = "Power"; Value = "1/8W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision"; Value = "V1.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1.5K"; VariantName = "[No Variations]"
+Added Component: Designator=R6(Res 0603_L)
+Add component (AddParameter): Name = "Power"; Value = "1/8W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision"; Value = "V1.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R7(Res 0603_L)
+Add component (AddParameter): Name = "Power"; Value = "1/8W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision"; Value = "V1.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "NTC 10K"; VariantName = "[No Variations]"
+Added Component: Designator=R8(Res 0603_L)
+Add component (AddParameter): Name = "Power"; Value = "1/8W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision"; Value = "V1.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1.5K"; VariantName = "[No Variations]"
+Added Component: Designator=R13(Res 0805_L)
+Add component (AddParameter): Name = "Power"; Value = "1/8W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision"; Value = "V1.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100R"; VariantName = "[No Variations]"
+Added Component: Designator=R14(Res 0603_L)
+Add component (AddParameter): Name = "Power"; Value = "1/8W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision"; Value = "V1.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "51K"; VariantName = "[No Variations]"
+Added Component: Designator=R15(Res 0603_L)
+Add component (AddParameter): Name = "Power"; Value = "1/8W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision"; Value = "V1.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R19(Res 0603_L)
+Add component (AddParameter): Name = "Power"; Value = "1/8W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision"; Value = "V1.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7R"; VariantName = "[No Variations]"
+Added Component: Designator=R20(Res 0603_L)
+Add component (AddParameter): Name = "Power"; Value = "1/8W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision"; Value = "V1.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7R"; VariantName = "[No Variations]"
+Added Component: Designator=R21(Res 0603_L)
+Add component (AddParameter): Name = "Power"; Value = "1/8W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision"; Value = "V1.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7R"; VariantName = "[No Variations]"
+Added Component: Designator=R29(Res 0603_L)
+Add component (AddParameter): Name = "Power"; Value = "1/8W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision"; Value = "V1.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7R"; VariantName = "[No Variations]"
+Added Component: Designator=R30(Res 0603_L)
+Add component (AddParameter): Name = "Power"; Value = "1/8W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision"; Value = "V1.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7R"; VariantName = "[No Variations]"
+Added Component: Designator=R31(Res 0603_L)
+Add component (AddParameter): Name = "Power"; Value = "1/8W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision"; Value = "V1.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7R"; VariantName = "[No Variations]"
+Added Component: Designator=R39(Res 2512_L)
+Add component (AddParameter): Name = "Power"; Value = "1/8W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Revision"; Value = "V1.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "5mR"; VariantName = "[No Variations]"
+Added Component: Designator=U1(LQFP48 7X7_M)
+Added Component: Designator=U2(SOT89_L)
+Added Component: Designator=U3(SOT23-5L)
+Added Component: Designator=U4(QFN24 4x4_M)
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=VIN Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=VCC3V3 Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=VIN Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=NetC5_2 Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=VCC3V3 Pin=C6-2
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=VCC3V3 Pin=C7-2
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=NetC8_2 Pin=C8-2
+Added Pin To Net: NetName=VSA Pin=C9-1
+Added Pin To Net: NetName=VBA Pin=C9-2
+Added Pin To Net: NetName=ADC_Meter_VBAT Pin=C10-1
+Added Pin To Net: NetName=GND Pin=C10-2
+Added Pin To Net: NetName=VSB Pin=C11-1
+Added Pin To Net: NetName=VBB Pin=C11-2
+Added Pin To Net: NetName=VSC Pin=C12-1
+Added Pin To Net: NetName=VBC Pin=C12-2
+Added Pin To Net: NetName=GND Pin=C13-1
+Added Pin To Net: NetName=NetC13_2 Pin=C13-2
+Added Pin To Net: NetName=GND Pin=D1-1
+Added Pin To Net: NetName=VIN Pin=D1-2
+Added Pin To Net: NetName=NetC13_2 Pin=D2-A
+Added Pin To Net: NetName=VBA Pin=D2-K
+Added Pin To Net: NetName=GND Pin=D3-A
+Added Pin To Net: NetName=NetC13_2 Pin=D3-K
+Added Pin To Net: NetName=NetC13_2 Pin=D4-A
+Added Pin To Net: NetName=VBB Pin=D4-K
+Added Pin To Net: NetName=NetC13_2 Pin=D5-A
+Added Pin To Net: NetName=VBC Pin=D5-K
+Added Pin To Net: NetName=NetC8_2 Pin=FB1-1
+Added Pin To Net: NetName=GND Pin=FB1-2
+Added Pin To Net: NetName=GND Pin=H4-1
+Added Pin To Net: NetName=Hall_A Pin=H4-2
+Added Pin To Net: NetName=Hall_B Pin=H4-3
+Added Pin To Net: NetName=Hall_C Pin=H4-4
+Added Pin To Net: NetName=GND Pin=H4-5
+Added Pin To Net: NetName=GND Pin=H4-6
+Added Pin To Net: NetName=VCC3V3 Pin=H4-7
+Added Pin To Net: NetName=VCC3V3 Pin=H4-8
+Added Pin To Net: NetName=VCC3V3 Pin=H5-1
+Added Pin To Net: NetName=GND Pin=H5-2
+Added Pin To Net: NetName=DBRX Pin=H5-3
+Added Pin To Net: NetName=DBTX Pin=H5-4
+Added Pin To Net: NetName=NetLED1_1 Pin=LED1-1
+Added Pin To Net: NetName=GND Pin=LED1-2
+Added Pin To Net: NetName=NetLED2_1 Pin=LED2-1
+Added Pin To Net: NetName=GND Pin=LED2-2
+Added Pin To Net: NetName=NetLED3_1 Pin=LED3-1
+Added Pin To Net: NetName=GND Pin=LED3-2
+Added Pin To Net: NetName=NetLED4_1 Pin=LED4-1
+Added Pin To Net: NetName=GND Pin=LED4-2
+Added Pin To Net: NetName=VIN Pin=Q?-1
+Added Pin To Net: NetName=VIN Pin=Q?-1
+Added Pin To Net: NetName=VIN Pin=Q?-1
+Added Pin To Net: NetName=VIN Pin=Q?-1
+Added Pin To Net: NetName=VIN Pin=Q?-1
+Added Pin To Net: NetName=VIN Pin=Q?-1
+Added Pin To Net: NetName=VIN Pin=Q?-1
+Added Pin To Net: NetName=VIN Pin=Q?-1
+Added Pin To Net: NetName=VIN Pin=Q?-1
+Added Pin To Net: NetName=VIN Pin=Q?-1
+Added Pin To Net: NetName=VIN Pin=Q?-1
+Added Pin To Net: NetName=VIN Pin=Q?-1
+Added Pin To Net: NetName=VIN Pin=Q?-1
+Added Pin To Net: NetName=VIN Pin=Q?-1
+Added Pin To Net: NetName=VIN Pin=Q?-1
+Added Pin To Net: NetName=VIN Pin=Q?-1
+Added Pin To Net: NetName=VIN Pin=Q?-1
+Added Pin To Net: NetName=VIN Pin=Q?-1
+Added Pin To Net: NetName=VSA Pin=Q?-1
+Added Pin To Net: NetName=VSA Pin=Q?-1
+Added Pin To Net: NetName=VSA Pin=Q?-1
+Added Pin To Net: NetName=VSA Pin=Q?-1
+Added Pin To Net: NetName=VSA Pin=Q?-1
+Added Pin To Net: NetName=VSA Pin=Q?-1
+Added Pin To Net: NetName=VSB Pin=Q?-1
+Added Pin To Net: NetName=VSB Pin=Q?-1
+Added Pin To Net: NetName=VSB Pin=Q?-1
+Added Pin To Net: NetName=VSB Pin=Q?-1
+Added Pin To Net: NetName=VSB Pin=Q?-1
+Added Pin To Net: NetName=VSB Pin=Q?-1
+Added Pin To Net: NetName=VSC Pin=Q?-1
+Added Pin To Net: NetName=VSC Pin=Q?-1
+Added Pin To Net: NetName=VSC Pin=Q?-1
+Added Pin To Net: NetName=VSC Pin=Q?-1
+Added Pin To Net: NetName=VSC Pin=Q?-1
+Added Pin To Net: NetName=VSC Pin=Q?-1
+Added Pin To Net: NetName=ISUM Pin=Q?-3
+Added Pin To Net: NetName=ISUM Pin=Q?-3
+Added Pin To Net: NetName=ISUM Pin=Q?-3
+Added Pin To Net: NetName=ISUM Pin=Q?-3
+Added Pin To Net: NetName=ISUM Pin=Q?-3
+Added Pin To Net: NetName=ISUM Pin=Q?-3
+Added Pin To Net: NetName=ISUM Pin=Q?-3
+Added Pin To Net: NetName=ISUM Pin=Q?-3
+Added Pin To Net: NetName=ISUM Pin=Q?-3
+Added Pin To Net: NetName=VSA Pin=Q?-3
+Added Pin To Net: NetName=VSA Pin=Q?-3
+Added Pin To Net: NetName=VSA Pin=Q?-3
+Added Pin To Net: NetName=VSB Pin=Q?-3
+Added Pin To Net: NetName=VSB Pin=Q?-3
+Added Pin To Net: NetName=VSB Pin=Q?-3
+Added Pin To Net: NetName=VSC Pin=Q?-3
+Added Pin To Net: NetName=VSC Pin=Q?-3
+Added Pin To Net: NetName=VSC Pin=Q?-3
+Added Pin To Net: NetName=NetC1_1 Pin=R1-1
+Added Pin To Net: NetName=ADC_Meter_I Pin=R1-2
+Added Pin To Net: NetName=NetC1_1 Pin=R2-1
+Added Pin To Net: NetName=GND Pin=R2-2
+Added Pin To Net: NetName=LED_A Pin=R3-1
+Added Pin To Net: NetName=NetLED1_1 Pin=R3-2
+Added Pin To Net: NetName=LED_B Pin=R4-1
+Added Pin To Net: NetName=NetLED2_1 Pin=R4-2
+Added Pin To Net: NetName=LED_C Pin=R5-1
+Added Pin To Net: NetName=NetLED3_1 Pin=R5-2
+Added Pin To Net: NetName=ADC_Meter_TMOS Pin=R6-1
+Added Pin To Net: NetName=GND Pin=R6-2
+Added Pin To Net: NetName=VCC3V3 Pin=R7-1
+Added Pin To Net: NetName=ADC_Meter_TMOS Pin=R7-2
+Added Pin To Net: NetName=VCC3V3 Pin=R8-1
+Added Pin To Net: NetName=NetLED4_1 Pin=R8-2
+Added Pin To Net: NetName=NetC13_2 Pin=R13-1
+Added Pin To Net: NetName=VIN Pin=R13-2
+Added Pin To Net: NetName=VIN Pin=R14-1
+Added Pin To Net: NetName=ADC_Meter_VBAT Pin=R14-2
+Added Pin To Net: NetName=ADC_Meter_VBAT Pin=R15-1
+Added Pin To Net: NetName=GND Pin=R15-2
+Added Pin To Net: NetName=HOA Pin=R19-1
+Added Pin To Net: NetName=HOB Pin=R20-1
+Added Pin To Net: NetName=HOC Pin=R21-1
+Added Pin To Net: NetName=LOA Pin=R29-1
+Added Pin To Net: NetName=LOB Pin=R30-1
+Added Pin To Net: NetName=LOC Pin=R31-1
+Added Pin To Net: NetName=GND Pin=R39-1
+Added Pin To Net: NetName=ISUM Pin=R39-2
+Added Pin To Net: NetName=NetC5_2 Pin=U1-13
+Added Pin To Net: NetName=VCC3V3 Pin=U1-15
+Added Pin To Net: NetName=NetC8_2 Pin=U1-16
+Added Pin To Net: NetName=GND Pin=U1-17
+Added Pin To Net: NetName=DBRX Pin=U1-19
+Added Pin To Net: NetName=DBTX Pin=U1-20
+Added Pin To Net: NetName=LED_A Pin=U1-21
+Added Pin To Net: NetName=LED_B Pin=U1-22
+Added Pin To Net: NetName=PWMOUT Pin=U1-23
+Added Pin To Net: NetName=LED_C Pin=U1-24
+Added Pin To Net: NetName=EXP Pin=U1-25
+Added Pin To Net: NetName=Hall_C Pin=U1-26
+Added Pin To Net: NetName=Hall_B Pin=U1-27
+Added Pin To Net: NetName=Hall_A Pin=U1-28
+Added Pin To Net: NetName=DATA Pin=U1-29
+Added Pin To Net: NetName=CLK Pin=U1-30
+Added Pin To Net: NetName=PWMAH Pin=U1-33
+Added Pin To Net: NetName=PWMAL Pin=U1-34
+Added Pin To Net: NetName=PWMBH Pin=U1-35
+Added Pin To Net: NetName=PWMBL Pin=U1-36
+Added Pin To Net: NetName=PWMCH Pin=U1-37
+Added Pin To Net: NetName=PWMCL Pin=U1-38
+Added Pin To Net: NetName=PWMIN Pin=U1-43
+Added Pin To Net: NetName=PWMIN Pin=U1-44
+Added Pin To Net: NetName=ADC_Meter_I Pin=U1-45
+Added Pin To Net: NetName=ADC_Meter_VBAT Pin=U1-46
+Added Pin To Net: NetName=ADC_Meter_TMOS Pin=U1-47
+Added Pin To Net: NetName=VCC3V3 Pin=U2-1
+Added Pin To Net: NetName=GND Pin=U2-2
+Added Pin To Net: NetName=GND Pin=U2-2
+Added Pin To Net: NetName=VIN Pin=U2-3
+Added Pin To Net: NetName=ADC_Meter_I Pin=U3-1
+Added Pin To Net: NetName=GND Pin=U3-2
+Added Pin To Net: NetName=ISUM Pin=U3-3
+Added Pin To Net: NetName=NetC1_1 Pin=U3-4
+Added Pin To Net: NetName=VCC3V3 Pin=U3-5
+Added Pin To Net: NetName=PWMAL Pin=U4-1
+Added Pin To Net: NetName=PWMBL Pin=U4-2
+Added Pin To Net: NetName=PWMCL Pin=U4-3
+Added Pin To Net: NetName=NetC13_2 Pin=U4-4
+Added Pin To Net: NetName=GND Pin=U4-6
+Added Pin To Net: NetName=LOC Pin=U4-9
+Added Pin To Net: NetName=LOB Pin=U4-10
+Added Pin To Net: NetName=LOA Pin=U4-11
+Added Pin To Net: NetName=VSC Pin=U4-12
+Added Pin To Net: NetName=HOC Pin=U4-13
+Added Pin To Net: NetName=VBC Pin=U4-14
+Added Pin To Net: NetName=VSB Pin=U4-15
+Added Pin To Net: NetName=HOB Pin=U4-16
+Added Pin To Net: NetName=VBB Pin=U4-17
+Added Pin To Net: NetName=VSA Pin=U4-18
+Added Pin To Net: NetName=HOA Pin=U4-19
+Added Pin To Net: NetName=VBA Pin=U4-20
+Added Pin To Net: NetName=PWMAH Pin=U4-22
+Added Pin To Net: NetName=PWMBH Pin=U4-23
+Added Pin To Net: NetName=PWMCH Pin=U4-24
+Added Pin To Net: NetName=GND Pin=U4-25
+Added Pin To Net: NetName=NetQ?_2 Pin=Q?-2
+Added Pin To Net: NetName=NetQ?_2 Pin=R21-2
+Added Net: Name=NetQ?_2
+Added Member To Class: ClassName=MotorDrive Member=Component C1 Cap-Chip
+Added Member To Class: ClassName=MotorDrive Member=Component C2 极性电容
+Added Member To Class: ClassName=MotorDrive Member=Component C3 Cap-Chip
+Added Member To Class: ClassName=MotorDrive Member=Component C4 Cap-Chip
+Added Member To Class: ClassName=MotorDrive Member=Component C5 Cap-Chip
+Added Member To Class: ClassName=MotorDrive Member=Component C6 Cap-Chip
+Added Member To Class: ClassName=MotorDrive Member=Component C7 Cap-Chip
+Added Member To Class: ClassName=MotorDrive Member=Component C8 Cap-Chip
+Added Member To Class: ClassName=MotorDrive Member=Component C9 Cap-Chip
+Added Member To Class: ClassName=MotorDrive Member=Component C10 Cap-Chip
+Added Member To Class: ClassName=MotorDrive Member=Component C11 Cap-Chip
+Added Member To Class: ClassName=MotorDrive Member=Component C12 Cap-Chip
+Added Member To Class: ClassName=MotorDrive Member=Component C13 Cap-Chip
+Added Member To Class: ClassName=MotorDrive Member=Component D1 SMDJ26CA
+Added Member To Class: ClassName=MotorDrive Member=Component D2 B5819WS
+Added Member To Class: ClassName=MotorDrive Member=Component D3 BZT52C18
+Added Member To Class: ClassName=MotorDrive Member=Component D4 B5819WS
+Added Member To Class: ClassName=MotorDrive Member=Component D5 B5819WS
+Added Member To Class: ClassName=MotorDrive Member=Component FB1 磁珠
+Added Member To Class: ClassName=MotorDrive Member=Component H4 Hall
+Added Member To Class: ClassName=MotorDrive Member=Component H5 HDR 1X4
+Added Member To Class: ClassName=MotorDrive Member=Component LED1 发光二极管
+Added Member To Class: ClassName=MotorDrive Member=Component LED2 发光二极管
+Added Member To Class: ClassName=MotorDrive Member=Component LED3 发光二极管
+Added Member To Class: ClassName=MotorDrive Member=Component LED4 发光二极管
+Added Member To Class: ClassName=MotorDrive Member=Component Q? BSC014N04LS
+Added Member To Class: ClassName=MotorDrive Member=Component Q? BSC014N04LS
+Added Member To Class: ClassName=MotorDrive Member=Component Q? BSC014N04LS
+Added Member To Class: ClassName=MotorDrive Member=Component Q? BSC014N04LS
+Added Member To Class: ClassName=MotorDrive Member=Component Q? BSC014N04LS
+Added Member To Class: ClassName=MotorDrive Member=Component Q? BSC014N04LS
+Added Member To Class: ClassName=MotorDrive Member=Component R1 Res-Chip
+Added Member To Class: ClassName=MotorDrive Member=Component R2 Res-Chip
+Added Member To Class: ClassName=MotorDrive Member=Component R3 Res-Chip
+Added Member To Class: ClassName=MotorDrive Member=Component R4 Res-Chip
+Added Member To Class: ClassName=MotorDrive Member=Component R5 Res-Chip
+Added Member To Class: ClassName=MotorDrive Member=Component R6 Res-Chip
+Added Member To Class: ClassName=MotorDrive Member=Component R7 Res-Chip
+Added Member To Class: ClassName=MotorDrive Member=Component R8 Res-Chip
+Added Member To Class: ClassName=MotorDrive Member=Component R13 Res-Chip
+Added Member To Class: ClassName=MotorDrive Member=Component R14 Res-Chip
+Added Member To Class: ClassName=MotorDrive Member=Component R15 Res-Chip
+Added Member To Class: ClassName=MotorDrive Member=Component R19 Res-Chip
+Added Member To Class: ClassName=MotorDrive Member=Component R20 Res-Chip
+Added Member To Class: ClassName=MotorDrive Member=Component R21 Res-Chip
+Added Member To Class: ClassName=MotorDrive Member=Component R29 Res-Chip
+Added Member To Class: ClassName=MotorDrive Member=Component R30 Res-Chip
+Added Member To Class: ClassName=MotorDrive Member=Component R31 Res-Chip
+Added Member To Class: ClassName=MotorDrive Member=Component R39 Res-Chip
+Added Member To Class: ClassName=MotorDrive Member=Component U1 STC32G12K128-48PIN
+Added Member To Class: ClassName=MotorDrive Member=Component U2 XC6202P332
+Added Member To Class: ClassName=MotorDrive Member=Component U3 OPA333
+Added Member To Class: ClassName=MotorDrive Member=Component U4 FD6288Q
+Added Room: Name=MotorDrive

@@ -1,0 +1,28 @@
+Change Component Designator: OldDesignator=Q? NewDesignator=Q1
+Change Component Designator: OldDesignator=Q? NewDesignator=Q2
+Change Component Designator: OldDesignator=Q? NewDesignator=Q3
+Change Component Designator: OldDesignator=Q? NewDesignator=Q4
+Change Component Designator: OldDesignator=Q? NewDesignator=Q5
+Change Component Designator: OldDesignator=Q? NewDesignator=Q6
+Change Net Name : Old Net Name=NetQ?_2 New Net Name=NetQ3_2
+Added Pin To Net: NetName=NetQ1_2 Pin=Q1-2
+Added Pin To Net: NetName=NetQ1_2 Pin=R19-2
+Added Net: Name=NetQ1_2
+Added Pin To Net: NetName=NetQ2_2 Pin=Q2-2
+Added Pin To Net: NetName=NetQ2_2 Pin=R20-2
+Added Net: Name=NetQ2_2
+Added Pin To Net: NetName=NetQ4_2 Pin=Q4-2
+Added Pin To Net: NetName=NetQ4_2 Pin=R29-2
+Added Net: Name=NetQ4_2
+Added Pin To Net: NetName=NetQ5_2 Pin=Q5-2
+Added Pin To Net: NetName=NetQ5_2 Pin=R30-2
+Added Net: Name=NetQ5_2
+Added Pin To Net: NetName=NetQ6_2 Pin=Q6-2
+Added Pin To Net: NetName=NetQ6_2 Pin=R31-2
+Added Net: Name=NetQ6_2
+Added Member To Class: ClassName=MotorDrive Member=Component Q1 BSC014N04LS
+Added Member To Class: ClassName=MotorDrive Member=Component Q2 BSC014N04LS
+Added Member To Class: ClassName=MotorDrive Member=Component Q4 BSC014N04LS
+Added Member To Class: ClassName=MotorDrive Member=Component Q5 BSC014N04LS
+Added Member To Class: ClassName=MotorDrive Member=Component Q6 BSC014N04LS
+Added Room: Name=MotorDrive

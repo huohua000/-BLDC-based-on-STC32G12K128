@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=GND Pin=H4-1
+Added Pin To Net: NetName=Motor ADC Pin=H4-1
+Added Pin To Net: NetName=Motor ADC Pin=U1-12
+Added Net: Name=Motor ADC
+Added Room: Name=MotorDrive

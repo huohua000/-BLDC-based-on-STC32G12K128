@@ -1,0 +1,4 @@
+Change Component Designator: OldDesignator=A NewDesignator=LED1
+Change Component Designator: OldDesignator=B NewDesignator=LED2
+Change Component Designator: OldDesignator=C NewDesignator=LED3
+Added Member To Class: ClassName=MotorDrive Member=Component Q3 BSC014N04LS

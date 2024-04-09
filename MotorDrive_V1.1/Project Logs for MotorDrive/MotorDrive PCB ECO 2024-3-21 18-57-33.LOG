@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=GND Pin=H5-2
+Removed Pin From Net: NetName=DBRX Pin=H5-3
+Removed Pin From Net: NetName=DBTX Pin=H5-4
+Added Pin To Net: NetName=DBRX Pin=H5-2
+Added Pin To Net: NetName=DBTX Pin=H5-3
+Added Pin To Net: NetName=GND Pin=H5-4
+Added Member To Class: ClassName=MotorDrive Member=Component Q? BSC014N04LS
+Added Member To Class: ClassName=MotorDrive Member=Component Q? BSC014N04LS
+Added Member To Class: ClassName=MotorDrive Member=Component Q? BSC014N04LS
+Added Member To Class: ClassName=MotorDrive Member=Component Q? BSC014N04LS
+Added Member To Class: ClassName=MotorDrive Member=Component Q? BSC014N04LS
